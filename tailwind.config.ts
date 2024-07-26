@@ -16,8 +16,10 @@ const config: Config = {
         app: '700px'
       },
       colors: {
-        "primary": "#f97316",
-      }
+        violet: {
+          25: '#fcfaff',
+        },
+      },
     },
   },
   plugins: [],
